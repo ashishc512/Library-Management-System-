@@ -1,4 +1,11 @@
 # Library Management System
+## Team Members
+
+- Ashish C
+- Sreehari Pillai A
+- Ganesh S
+- Adithya S Shanker
+- Anjali Udhayakumar
 
 A Library Management System developed using Java, JDBC and MySQL.
 
