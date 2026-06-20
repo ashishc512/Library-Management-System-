@@ -19,3 +19,5 @@ A Library Management System developed using Java, JDBC and MySQL.
 ## Database Tables
 - Members
 - Books
+- Records
+  
