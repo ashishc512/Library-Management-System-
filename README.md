@@ -4,7 +4,7 @@
 - Ashish C
 - Sreehari Pillai A
 - Ganesh S
-- Adithya S Shanker
+- Adithya S Shankar
 - Anjali Udhayakumar
 
 A Library Management System developed using Java, JDBC and MySQL.
